@@ -1,5 +1,4 @@
-# PI-Cercadillo
-# VariomeDB - Plataforma de Análisis de Variantes Genéticas
+# PI-CERCADILLO-Desarrollo de algoritmos para el estudio de alteraciones genéticas de interés en medicina de precisión (VariomeDB)
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/streamlit-1.28%2B-red)](https://streamlit.io/)
