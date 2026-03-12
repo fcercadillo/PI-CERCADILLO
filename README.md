@@ -2,7 +2,7 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/streamlit-1.28%2B-red)](https://streamlit.io/)
-[![GitHub Repo](https://img.shields.io/badge/github-variomedb-black)]([https://github.com/fcercadillo/variomedb](https://github.com/fcercadillo/PI-CERCADILLO)
+[![GitHub Repo](https://img.shields.io/badge/github-variomedb-black)](https://github.com/fcercadillo/PI-CERCADILLO)
 
 ## Descripción General
 
