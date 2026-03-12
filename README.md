@@ -3,7 +3,6 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/streamlit-1.28%2B-red)](https://streamlit.io/)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![GitHub Repo](https://img.shields.io/badge/github-variomedb-black)](https://github.com/fcercadillo/variomedb)
 
 ## 📋 Descripción General
