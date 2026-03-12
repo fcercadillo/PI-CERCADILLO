@@ -62,18 +62,6 @@ ARQUITECTURA:
 - Visualización: Plotly, Altair
 - Reportes: python-docx
 
-ESTRUCTURA DE DIRECTORIOS:
---------------------------
-VariomeDB/
-├── src/                    # Código fuente
-│   ├── modules/            # Módulos de funcionalidad
-│   └── utils/              # Utilidades
-├── templates/              # Plantillas de documentos
-├── data/                   # Datos locales (paneles, etc.)
-├── tests/                  # Pruebas unitarias
-├── docs/                   # Documentación
-└── scripts/                # Scripts de utilidad
-
 DEPENDENCIAS PRINCIPALES:
 -------------------------
 - Python 3.8+
