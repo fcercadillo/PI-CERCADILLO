@@ -43,10 +43,10 @@ python3 -m venv venv
 source venv/bin/activate       
 
 # 3. Instalar dependencias
-pip install -r requirements.txt
+pip install -r dependencias.txt
 
 # 4. Configurar base de datos
-mysql -u root -p < scripts/setup_database.sql
+mysql -u root -p < scripts/ddl_variomedb.sql
 
 # 5. Ejecutar la app
 streamlit run src/variomedb_app.py --server.address 0.0.0.0 --server.port 8501
