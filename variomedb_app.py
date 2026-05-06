@@ -8,6 +8,8 @@ Fecha: 12/03/2026
 Autor: Francisco Cercadillo
 Repositorio: https://github.com/fcercadillo/pi-cercadillo
 
+PRUEBA
+
 DESCRIPCIÓN GENERAL:
 --------------------
 VariomeDB es una aplicación web desarrollada en Python/Streamlit para la gestión,
